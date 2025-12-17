@@ -17,6 +17,11 @@ This project presents an end-to-end sales analytics solution built using SQL and
 
 ---
 
+- SQL dataset provided as a `.sql` dump file containing sales transactions, customers, products, and market data.
+- - Data imported into MySQL for querying and analysis before visualization in Power BI.
+
+---
+
 ## 🔎 Data Analysis Approach
 - Performed sales analysis using SQL to evaluate revenue trends, customer count, and market-wise performance.
 - Joined multiple tables (transactions, date, customers, products, markets) to enable time-based and dimensional analysis.
