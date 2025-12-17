@@ -49,10 +49,6 @@ Dashboard screenshots are available in the `screenshots` folder.
 
 ---
 
-## 📂 Repository Structure
-
-
----
 
 ## 🚀 Conclusion
 This project demonstrates my ability to perform end-to-end data analysis using SQL and Power BI — from data cleaning and transformation to insight generation and dashboard development. It reflects a practical, business-oriented approach suitable for real-world data analytics roles.
