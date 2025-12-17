@@ -1,5 +1,9 @@
-# power-bi-sales-insights
 # Power BI Sales Insights Dashboard
+
+## 📌 Problem Statement
+The business lacked a centralized view of sales performance across markets, customers, and products, making it difficult to identify revenue drivers and trends.
+
+---
 
 ## 📌 Project Overview
 This project presents an end-to-end sales analytics solution built using SQL and Power BI. The objective was to analyze company sales data, identify revenue drivers, uncover market and customer-level insights, and present findings through an interactive dashboard for business decision-making.
